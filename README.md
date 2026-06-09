@@ -112,7 +112,7 @@ Scikit-Learn	Machine Learning
 Random Forest	Classification Model
 Installation
 Clone Repository
-git clone https://github.com/yourusername/student-placement-prediction-system.git
+git clone https://github.com/rutikasalunke/student-placement-prediction-system.git
 Install Dependencies
 pip install -r requirements.txt
 Run Application
